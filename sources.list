@@ -1,0 +1,11 @@
+deb http://mirror.kakao.com/ubuntu/ focal main
+deb http://archive.ubuntu.com/ubuntu/ focal main
+
+deb http://mirror.kakao.com/ubuntu/ focal universe
+deb http://archive.ubuntu.com/ubuntu/ focal universe
+
+deb http://mirror.kakao.com/ubuntu/ focal multiverse
+deb http://archive.ubuntu.com/ubuntu/ focal multiverse
+
+deb http://mirror.kakao.com/ubuntu/ focal restricted
+deb http://archive.ubuntu.com/ubuntu/ focal restricted
